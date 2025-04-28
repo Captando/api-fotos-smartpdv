@@ -1,0 +1,15 @@
+{
+  "name": "captando-api-fotos-smartpdv",
+  "version": "1.0.0",
+  "description": "API para capturar links de fotos de produtos em lojas SmartPDV Store por referência.",
+  "main": "api.js",
+  "scripts": {
+    "start": "node api.js"
+  },
+  "author": "Captando",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^21.3.8"
+  }
+}

@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Puppeteer downloads
+.chromium/
+puppeteer.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Outros arquivos temporários
+*.local
+.env 
